@@ -1,5 +1,8 @@
-# Getting Started with Create React App
+# EmaJon
 
+Lipon Project Link: (https://gallant-jennings-e11c69.netlify.app/).
+
+#other
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
