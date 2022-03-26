@@ -1,0 +1,27 @@
+.App {
+	text-align: center;
+}
+
+/* .Shop {
+	display: flex;
+}
+.productContainer {
+	flex: 7;
+}
+.cartContainer {
+	flex: 5;
+} */
+
+.cartItem {
+	background-color: chocolate;
+	color: white;
+	margin: 10px 78px;
+	padding: 8px;
+}
+.cartItem img {
+	margin-right: 8px;
+}
+
+/* .randomItem {
+	display: none;
+} */

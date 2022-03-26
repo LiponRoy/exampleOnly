@@ -1,0 +1,58 @@
+[
+    {
+        "id":"12345",
+        "category":"men's Sneaker",
+        "name":"mamun",
+        "seller":"abdur",
+        "price":"215",
+        "stock":"100",
+        "Shipping":"12",
+        "rating":"4",
+        "img":"img/bakom1.jpg"
+
+    },    {
+        "id":"78910",
+        "category":"men's Sneaker",
+        "name":"Biplob",
+        "seller":"abdur",
+        "price":"90",
+        "stock":"100",
+        "Shipping":"10",
+        "rating":"4",
+        "img":"img/bakom2.jpg"
+
+    },    {
+        "id":"333435",
+        "category":"men's Sneaker",
+        "name":"Jhonkar",
+        "seller":"abdur",
+        "price":"200",
+        "stock":"100",
+        "Shipping":"18",
+        "rating":"4",
+        "img":"img/bakom3.jpg"
+
+    },    {
+        "id":"333435",
+        "category":"men's Sneaker",
+        "name":"Jhonkar",
+        "seller":"abdur",
+        "price":"200",
+        "stock":"100",
+        "Shipping":"18",
+        "rating":"4",
+        "img":"img/bakom3.jpg"
+
+    },    {
+        "id":"333435",
+        "category":"men's Sneaker",
+        "name":"Jhonkar",
+        "seller":"abdur",
+        "price":"200",
+        "stock":"100",
+        "Shipping":"18",
+        "rating":"4",
+        "img":"img/bakom3.jpg"
+
+    }
+]
